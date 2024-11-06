@@ -13,3 +13,6 @@ Prodi : Teknik Informatika
 - Firewall adalah perangkat keamanan jaringan yang berfungsi untuk mengontrol lalu lintas jaringan berdasarkan aturan keamanan yang ditetapkan. Firewall bertindak sebagai pelindung untuk melindungi data dan sistem dari ancaman eksternal, seperti akses yang tidak sah, serangan, atau ancaman lainnya. <br>
 4. Jelaskan menurut Anda apa itu NAT? <br>
 - Network Address Translation (NAT) adalah metode yang digunakan dalam jaringan komputer untuk mengubah Alamat IP sumber atau tujuan dari paket data saat melintasi perangkat jaringan. NAT berguna untuk memungkinkan banyak perangkat dalam suatu jaringan untuk menggunakan satu atau beberapa Alamat IP publik untuk berkomunikasi dengan jaringan eksternal.
+
+## Topologi
+![Topologi Jaringan](https://github.com/user-attachments/assets/74d2611e-671c-4a25-8737-08bf79a6dd5c)
