@@ -15,4 +15,4 @@ Prodi : Teknik Informatika
 - Network Address Translation (NAT) adalah metode yang digunakan dalam jaringan komputer untuk mengubah Alamat IP sumber atau tujuan dari paket data saat melintasi perangkat jaringan. NAT berguna untuk memungkinkan banyak perangkat dalam suatu jaringan untuk menggunakan satu atau beberapa Alamat IP publik untuk berkomunikasi dengan jaringan eksternal.
 
 ## Topologi
-![Topologi Jaringan](https://github.com/user-attachments/assets/74d2611e-671c-4a25-8737-08bf79a6dd5c)
+![Topologi Jaringan](https://github.com/user-attachments/assets/2d9f573d-c155-49ac-b344-c2612a3c23ac)
